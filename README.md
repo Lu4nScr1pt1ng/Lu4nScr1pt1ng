@@ -6,6 +6,15 @@
 
 
 
+<h3 align="Center">Contato:</h3>
+
+<p align="center">
+    <a href="">
+        <img align="center"
+        src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+        >
+</p>
+
 
 
 
@@ -43,3 +52,7 @@
     />
   </a>
 </p>
+
+
+
+<img align="center" src="http://ForTheBadge.com/images/badges/built-with-love.svg">
