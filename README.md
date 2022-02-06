@@ -9,17 +9,23 @@
 <h3 align="Center">Contato:</h3>
 
 <p align="center">
-    <a href="">
-        <img align="center"
+    <a href="https://www.linkedin.com/in/luan-rabelo-711884229/">
+        <img
         src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
         >
+    </a>
+    <a href="https://www.instagram.com/lu4n.rabelo">
+      <img 
+      src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
+      >
+    </a>
 </p>
 
 
 
 
-
-<p align="center">
+<h4 align="Center">O que eu já sei?</h4>
+<p align="Center">
    <a href="https://en.wikipedia.org/wiki/JavaScript">
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
    </a>
@@ -36,17 +42,17 @@
 
 
 
-<p align="center">
+<p align="Center">
   <a href="https://github.com/Lu4nScr1pt1ng">
     <img
-      align="center"
+      align="Center"
       height="150em"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lu4nScr1pt1ng&theme=blue-green"
     />
   </a>
   <a href="https://github.com/Lu4nScr1pt1ng">
     <img
-      align="center"
+      align="Center"
       height="150em"
       src="https://github-readme-stats.vercel.app/api?username=Lu4nScr1pt1ng&theme=blue-green"
     />
@@ -54,5 +60,7 @@
 </p>
 
 
-
-<img align="center" src="http://ForTheBadge.com/images/badges/built-with-love.svg">
+<p align="Center">
+  <img 
+    src="http://ForTheBadge.com/images/badges/built-with-love.svg">
+</p>
