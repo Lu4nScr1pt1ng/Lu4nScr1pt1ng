@@ -1,8 +1,15 @@
 # Luan Rabelo Dev Profile
 
-Olá, seja bem-vindo ao meu perfil do GitHub...
+<h1 align="Center">Olá, seja bem-vindo ao meu perfil do GitHub...</h1>
 
-Estou atualmente aumentando a minha base de conhecimento na linguagem JavaScript e seus frameworks
+<h2 align="Center">Estou atualmente aumentando a minha base de conhecimento na linguagem JavaScript e seus frameworks</h2>
+
+
+
+
+
+
+
 <p align="center">
    <a href="https://en.wikipedia.org/wiki/JavaScript">
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
