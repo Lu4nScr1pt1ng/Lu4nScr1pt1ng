@@ -9,7 +9,7 @@
 - 👯 I’m looking to collaborate on ... anything, i love to help people!
 - 📫 How to reach me: ... rd1qys@gmail.com
 
-<h3 align="Center">Contact me:</h3>
+<h3 align="Center">Social:</h3>
 
 <p align="center">
     <a href="https://www.linkedin.com/in/luan-rabelo-711884229/">
