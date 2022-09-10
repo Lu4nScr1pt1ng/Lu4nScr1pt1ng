@@ -1,12 +1,12 @@
 # Luan Rabelo Dev Profile
 
-<h1 align="Center">Olá, seja bem-vindo ao meu perfil do GitHub...</h1>
+<h1 align="Center">Hi there 👋, Welcome to my github profile!</h1>
 
-<h2 align="Center">Estou atualmente aumentando a minha base de conhecimento na linguagem JavaScript e seus frameworks</h2>
+<h2 align="Center">My name is Luan Rabelo. I am web developer</h2>
 
 
 
-<h3 align="Center">Contato:</h3>
+<h3 align="Center">Contact me:</h3>
 
 <p align="center">
     <a href="https://www.linkedin.com/in/luan-rabelo-711884229/">
@@ -24,8 +24,28 @@
 
 
 
-<h3 align="Center">Tecnologias que eu uso:</h3>
+
+
+<h3 align="Center"> :computer: Languages/Framework/Libraries/Tools/Technologies</h3>
 <p align="Center">
+   <a href="#">
+      <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
+   </a>
+   <a href="#">
+      <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+   </a>
+   <a href="#">
+      <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" />
+   </a>
+   <a href="#">
+      <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" />
+   </a>
+   <a href="#">
+      <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+   </a>
+   <a href="#">
+      <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+   </a>
    <a href="https://en.wikipedia.org/wiki/JavaScript">
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
    </a>
