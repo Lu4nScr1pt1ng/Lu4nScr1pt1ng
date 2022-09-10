@@ -1,14 +1,12 @@
 # Luan Rabelo Dev Profile
 
-<h1 align="Center">Hi there 👋, Welcome to my github profile!</h1>
+<h1>Hi there 👋, Welcome to my github profile!</h1>
 
-<h2 align="Center">My name is Luan Rabelo. I am web developer!</h2>
-<p align="center">
+<h2>My name is Luan Rabelo. I am web developer!</h2>
 **More about me:** 
 - 🌱 I’m currently learning ... VueJS
 - 👯 I’m looking to collaborate on ... anything, i love to help people!
 - 📫 How to reach me: ... rd1qys@gmail.com
-</p>
 
 ![](https://komarev.com/ghpvc/?username=your-github-username&style=flat-square)
 
