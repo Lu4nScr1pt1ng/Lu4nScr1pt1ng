@@ -9,7 +9,7 @@
 - 👯 I’m looking to collaborate on ... anything, i love to help people!</br>
 - 📫 How to reach me: ... rd1qys@gmail.com</br>
 
-<h3 align="center">![](https://komarev.com/ghpvc/?username=your-github-username&style=flat-square)</h3>
+![](https://komarev.com/ghpvc/?username=Lu4nScr1pt1ng&style=flat-square)
 
 <h3 align="Center">Social:</h3>
 
