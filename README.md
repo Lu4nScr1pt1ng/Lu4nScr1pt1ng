@@ -2,9 +2,12 @@
 
 <h1 align="Center">Hi there 👋, Welcome to my github profile!</h1>
 
-<h2 align="Center">My name is Luan Rabelo. I am web developer</h2>
+<h2 align="Center">My name is Luan Rabelo. I am web developer!</h2>
 
-
+**More about me:** 
+- 🌱 I’m currently learning ... VueJS
+- 👯 I’m looking to collaborate on ... anything, i love to help people!
+- 📫 How to reach me: ... rd1qys@gmail.com
 
 <h3 align="Center">Contact me:</h3>
 
