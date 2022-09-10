@@ -3,12 +3,13 @@
 <h1>Hi there 👋, Welcome to my github profile!</h1>
 
 <h2>My name is Luan Rabelo. I am web developer!</h2>
-**More about me:** 
-- 🌱 I’m currently learning ... VueJS
-- 👯 I’m looking to collaborate on ... anything, i love to help people!
-- 📫 How to reach me: ... rd1qys@gmail.com
 
-![](https://komarev.com/ghpvc/?username=your-github-username&style=flat-square)
+**More about me:** </br>
+- 🌱 I’m currently learning ... VueJS</br>
+- 👯 I’m looking to collaborate on ... anything, i love to help people!</br>
+- 📫 How to reach me: ... rd1qys@gmail.com</br>
+
+<h3 align="center">![](https://komarev.com/ghpvc/?username=your-github-username&style=flat-square)</h3>
 
 <h3 align="Center">Social:</h3>
 
