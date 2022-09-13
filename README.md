@@ -1,8 +1,8 @@
 # Luan Rabelo Dev Profile
 
-<h1>Hi there 👋, Welcome to my github profile!</h1>
+<h1>Hi there 👋!</h1>
 
-<h2>My name is Luan Rabelo. I am web developer!</h2>
+<h2>My name is Luan Rabelo. I am a passionate web developer!</h2>
 
 **More about me:** </br>
 - 🌱 I’m currently learning ... VueJS</br>
