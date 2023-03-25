@@ -2,7 +2,7 @@
 
 <h1>Hi there 👋!</h1>
 
-<h2>My name is Luan Rabelo. I am a passionate web developer!</h2>
+<h2>My name is Luan Rabelo. I am a passionate developer!</h2>
 
 **More about me:** </br>
 - 🌱 I’m currently learning ... VueJS</br>
