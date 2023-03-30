@@ -5,7 +5,7 @@
 <h2>My name is Luan Rabelo. I am a passionate developer!</h2>
 
 **More about me:** </br>
-- 🌱 I’m currently learning ... VueJS</br>
+- 🌱 I’m currently learning ... Svelte</br>
 - 👯 I’m looking to collaborate on ... anything, i love to help people!</br>
 - 📫 How to reach me: ... rd1qys@gmail.com</br>
 
